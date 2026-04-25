@@ -1,7 +1,7 @@
 # 🤖 ADVIT EdgeBot — Advanced Edge AI Navigation System
 ### RoboEdge | CELESTAI'26 | Dayananda Sagar University
 
-![Final State](simulations/final_state.png)
+![Final State](final_state.png)
 
 ---
 
