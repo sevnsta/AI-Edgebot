@@ -1,0 +1,6508 @@
+{
+  "decisions": [
+    {
+      "step": 1,
+      "state": "REPLANNING",
+      "position": [
+        1.5,
+        1.5
+      ],
+      "speed_ms": 1.2,
+      "clearance_m": 4.1,
+      "sensor_confidence": 0.738,
+      "emergency": false,
+      "reasoning": "Path replanned. NA* found new corridor. Speed=1.20m/s"
+    },
+    {
+      "step": 2,
+      "state": "NAVIGATING",
+      "position": [
+        1.585,
+        1.585
+      ],
+      "speed_ms": 1.2,
+      "clearance_m": 4.0,
+      "sensor_confidence": 0.6908,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.20m/s based on clearance=4.00m."
+    },
+    {
+      "step": 3,
+      "state": "NAVIGATING",
+      "position": [
+        1.67,
+        1.67
+      ],
+      "speed_ms": 1.0686,
+      "clearance_m": 3.9,
+      "sensor_confidence": 0.6746,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.07m/s based on clearance=3.90m."
+    },
+    {
+      "step": 4,
+      "state": "NAVIGATING",
+      "position": [
+        1.756,
+        1.733
+      ],
+      "speed_ms": 1.0686,
+      "clearance_m": 3.8,
+      "sensor_confidence": 0.667,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.07m/s based on clearance=3.80m."
+    },
+    {
+      "step": 5,
+      "state": "NAVIGATING",
+      "position": [
+        1.844,
+        1.793
+      ],
+      "speed_ms": 1.1557,
+      "clearance_m": 3.7,
+      "sensor_confidence": 0.6661,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.16m/s based on clearance=3.70m."
+    },
+    {
+      "step": 6,
+      "state": "NAVIGATING",
+      "position": [
+        1.938,
+        1.86
+      ],
+      "speed_ms": 1.1557,
+      "clearance_m": 3.55,
+      "sensor_confidence": 0.6648,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.16m/s based on clearance=3.55m."
+    },
+    {
+      "step": 7,
+      "state": "NAVIGATING",
+      "position": [
+        2.032,
+        1.927
+      ],
+      "speed_ms": 1.1557,
+      "clearance_m": 3.45,
+      "sensor_confidence": 0.6655,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.16m/s based on clearance=3.45m."
+    },
+    {
+      "step": 8,
+      "state": "NAVIGATING",
+      "position": [
+        2.127,
+        1.994
+      ],
+      "speed_ms": 1.1907,
+      "clearance_m": 3.35,
+      "sensor_confidence": 0.6676,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.19m/s based on clearance=3.35m."
+    },
+    {
+      "step": 9,
+      "state": "NAVIGATING",
+      "position": [
+        2.22,
+        2.068
+      ],
+      "speed_ms": 1.1907,
+      "clearance_m": 3.2,
+      "sensor_confidence": 0.6699,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.19m/s based on clearance=3.20m."
+    },
+    {
+      "step": 10,
+      "state": "NAVIGATING",
+      "position": [
+        2.314,
+        2.141
+      ],
+      "speed_ms": 1.1834,
+      "clearance_m": 3.1,
+      "sensor_confidence": 0.6729,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.18m/s based on clearance=3.10m."
+    },
+    {
+      "step": 11,
+      "state": "NAVIGATING",
+      "position": [
+        2.405,
+        2.217
+      ],
+      "speed_ms": 1.1834,
+      "clearance_m": 3.0,
+      "sensor_confidence": 0.6766,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.18m/s based on clearance=3.00m."
+    },
+    {
+      "step": 12,
+      "state": "NAVIGATING",
+      "position": [
+        2.496,
+        2.292
+      ],
+      "speed_ms": 1.1834,
+      "clearance_m": 2.85,
+      "sensor_confidence": 0.6805,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.18m/s based on clearance=2.85m."
+    },
+    {
+      "step": 13,
+      "state": "NAVIGATING",
+      "position": [
+        2.587,
+        2.368
+      ],
+      "speed_ms": 1.1406,
+      "clearance_m": 2.75,
+      "sensor_confidence": 0.684,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.14m/s based on clearance=2.75m."
+    },
+    {
+      "step": 14,
+      "state": "NAVIGATING",
+      "position": [
+        2.675,
+        2.441
+      ],
+      "speed_ms": 1.1406,
+      "clearance_m": 2.65,
+      "sensor_confidence": 0.6878,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.14m/s based on clearance=2.65m."
+    },
+    {
+      "step": 15,
+      "state": "NAVIGATING",
+      "position": [
+        2.762,
+        2.514
+      ],
+      "speed_ms": 1.1406,
+      "clearance_m": 2.5,
+      "sensor_confidence": 0.6915,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.14m/s based on clearance=2.50m."
+    },
+    {
+      "step": 16,
+      "state": "NAVIGATING",
+      "position": [
+        2.85,
+        2.587
+      ],
+      "speed_ms": 0.904,
+      "clearance_m": 2.4,
+      "sensor_confidence": 0.695,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.90m/s based on clearance=2.40m."
+    },
+    {
+      "step": 17,
+      "state": "NAVIGATING",
+      "position": [
+        2.922,
+        2.642
+      ],
+      "speed_ms": 0.8443,
+      "clearance_m": 2.35,
+      "sensor_confidence": 0.6982,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.84m/s based on clearance=2.35m."
+    },
+    {
+      "step": 18,
+      "state": "NAVIGATING",
+      "position": [
+        2.989,
+        2.693
+      ],
+      "speed_ms": 0.7249,
+      "clearance_m": 2.25,
+      "sensor_confidence": 0.7015,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.72m/s based on clearance=2.25m."
+    },
+    {
+      "step": 19,
+      "state": "NAVIGATING",
+      "position": [
+        3.047,
+        2.737
+      ],
+      "speed_ms": 0.6652,
+      "clearance_m": 2.2,
+      "sensor_confidence": 0.7047,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.67m/s based on clearance=2.20m."
+    },
+    {
+      "step": 20,
+      "state": "NAVIGATING",
+      "position": [
+        3.1,
+        2.777
+      ],
+      "speed_ms": 0.5919,
+      "clearance_m": 2.1,
+      "sensor_confidence": 0.7078,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.59m/s based on clearance=2.10m."
+    },
+    {
+      "step": 21,
+      "state": "NAVIGATING",
+      "position": [
+        3.151,
+        2.806
+      ],
+      "speed_ms": 0.5272,
+      "clearance_m": 2.05,
+      "sensor_confidence": 0.7115,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.53m/s based on clearance=2.05m."
+    },
+    {
+      "step": 22,
+      "state": "NAVIGATING",
+      "position": [
+        3.198,
+        2.831
+      ],
+      "speed_ms": 0.4624,
+      "clearance_m": 2.0,
+      "sensor_confidence": 0.7149,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.46m/s based on clearance=2.00m."
+    },
+    {
+      "step": 23,
+      "state": "NAVIGATING",
+      "position": [
+        3.238,
+        2.853
+      ],
+      "speed_ms": 0.4624,
+      "clearance_m": 1.95,
+      "sensor_confidence": 0.718,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.46m/s based on clearance=1.95m."
+    },
+    {
+      "step": 24,
+      "state": "NAVIGATING",
+      "position": [
+        3.279,
+        2.876
+      ],
+      "speed_ms": 0.4864,
+      "clearance_m": 1.95,
+      "sensor_confidence": 0.7207,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.49m/s based on clearance=1.95m."
+    },
+    {
+      "step": 25,
+      "state": "REPLANNING",
+      "position": [
+        3.324,
+        2.893
+      ],
+      "speed_ms": 0.5697,
+      "clearance_m": 2.05,
+      "sensor_confidence": 0.7231,
+      "emergency": false,
+      "reasoning": "Path replanned. NA* found new corridor. Speed=0.57m/s"
+    },
+    {
+      "step": 26,
+      "state": "NAVIGATING",
+      "position": [
+        3.377,
+        2.915
+      ],
+      "speed_ms": 0.4997,
+      "clearance_m": 1.95,
+      "sensor_confidence": 0.7251,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.50m/s based on clearance=1.95m."
+    },
+    {
+      "step": 27,
+      "state": "NAVIGATING",
+      "position": [
+        3.423,
+        2.935
+      ],
+      "speed_ms": 0.4997,
+      "clearance_m": 1.95,
+      "sensor_confidence": 0.7274,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.50m/s based on clearance=1.95m."
+    },
+    {
+      "step": 28,
+      "state": "NAVIGATING",
+      "position": [
+        3.469,
+        2.954
+      ],
+      "speed_ms": 0.4997,
+      "clearance_m": 1.9,
+      "sensor_confidence": 0.7294,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.50m/s based on clearance=1.90m."
+    },
+    {
+      "step": 29,
+      "state": "NAVIGATING",
+      "position": [
+        3.515,
+        2.973
+      ],
+      "speed_ms": 0.4992,
+      "clearance_m": 1.85,
+      "sensor_confidence": 0.7314,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.50m/s based on clearance=1.85m."
+    },
+    {
+      "step": 30,
+      "state": "NAVIGATING",
+      "position": [
+        3.563,
+        2.986
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7335,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 31,
+      "state": "NAVIGATING",
+      "position": [
+        3.583,
+        2.991
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7354,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 32,
+      "state": "NAVIGATING",
+      "position": [
+        3.602,
+        2.995
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7368,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 33,
+      "state": "NAVIGATING",
+      "position": [
+        3.621,
+        3.0
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7382,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 34,
+      "state": "NAVIGATING",
+      "position": [
+        3.641,
+        3.005
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7395,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 35,
+      "state": "NAVIGATING",
+      "position": [
+        3.66,
+        3.01
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7418,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 36,
+      "state": "NAVIGATING",
+      "position": [
+        3.68,
+        3.015
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7439,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 37,
+      "state": "NAVIGATING",
+      "position": [
+        3.699,
+        3.02
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7461,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 38,
+      "state": "NAVIGATING",
+      "position": [
+        3.718,
+        3.025
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7481,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 39,
+      "state": "NAVIGATING",
+      "position": [
+        3.738,
+        3.029
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7501,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 40,
+      "state": "NAVIGATING",
+      "position": [
+        3.758,
+        3.032
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7513,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 41,
+      "state": "NAVIGATING",
+      "position": [
+        3.777,
+        3.035
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7526,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 42,
+      "state": "NAVIGATING",
+      "position": [
+        3.797,
+        3.039
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7538,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 43,
+      "state": "NAVIGATING",
+      "position": [
+        3.817,
+        3.042
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7549,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 44,
+      "state": "NAVIGATING",
+      "position": [
+        3.837,
+        3.045
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.756,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 45,
+      "state": "NAVIGATING",
+      "position": [
+        3.856,
+        3.048
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.757,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 46,
+      "state": "NAVIGATING",
+      "position": [
+        3.876,
+        3.051
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.758,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 47,
+      "state": "NAVIGATING",
+      "position": [
+        3.896,
+        3.054
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.759,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 48,
+      "state": "NAVIGATING",
+      "position": [
+        3.916,
+        3.057
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.76,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 49,
+      "state": "NAVIGATING",
+      "position": [
+        3.935,
+        3.06
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.761,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 50,
+      "state": "REPLANNING",
+      "position": [
+        3.955,
+        3.063
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7619,
+      "emergency": false,
+      "reasoning": "Path replanned. NA* found new corridor. Speed=0.20m/s"
+    },
+    {
+      "step": 51,
+      "state": "NAVIGATING",
+      "position": [
+        3.975,
+        3.066
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7629,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 52,
+      "state": "NAVIGATING",
+      "position": [
+        3.995,
+        3.069
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7639,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 53,
+      "state": "NAVIGATING",
+      "position": [
+        4.015,
+        3.071
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7648,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 54,
+      "state": "NAVIGATING",
+      "position": [
+        4.035,
+        3.073
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7657,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 55,
+      "state": "NAVIGATING",
+      "position": [
+        4.054,
+        3.076
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7665,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 56,
+      "state": "NAVIGATING",
+      "position": [
+        4.074,
+        3.078
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7675,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 57,
+      "state": "NAVIGATING",
+      "position": [
+        4.094,
+        3.08
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7683,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 58,
+      "state": "NAVIGATING",
+      "position": [
+        4.114,
+        3.082
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7691,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 59,
+      "state": "NAVIGATING",
+      "position": [
+        4.134,
+        3.084
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7699,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 60,
+      "state": "NAVIGATING",
+      "position": [
+        4.154,
+        3.086
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7707,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 61,
+      "state": "NAVIGATING",
+      "position": [
+        4.174,
+        3.089
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7715,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 62,
+      "state": "NAVIGATING",
+      "position": [
+        4.194,
+        3.091
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7722,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 63,
+      "state": "NAVIGATING",
+      "position": [
+        4.213,
+        3.093
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.773,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 64,
+      "state": "NAVIGATING",
+      "position": [
+        4.233,
+        3.095
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7737,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 65,
+      "state": "NAVIGATING",
+      "position": [
+        4.253,
+        3.097
+      ],
+      "speed_ms": 1.1547,
+      "clearance_m": 4.95,
+      "sensor_confidence": 0.7744,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.15m/s based on clearance=4.95m."
+    },
+    {
+      "step": 66,
+      "state": "NAVIGATING",
+      "position": [
+        4.368,
+        3.107
+      ],
+      "speed_ms": 1.1547,
+      "clearance_m": 4.85,
+      "sensor_confidence": 0.7752,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.15m/s based on clearance=4.85m."
+    },
+    {
+      "step": 67,
+      "state": "NAVIGATING",
+      "position": [
+        4.483,
+        3.118
+      ],
+      "speed_ms": 1.103,
+      "clearance_m": 4.7,
+      "sensor_confidence": 0.7759,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.10m/s based on clearance=4.70m."
+    },
+    {
+      "step": 68,
+      "state": "NAVIGATING",
+      "position": [
+        4.593,
+        3.13
+      ],
+      "speed_ms": 1.103,
+      "clearance_m": 4.6,
+      "sensor_confidence": 0.7766,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.10m/s based on clearance=4.60m."
+    },
+    {
+      "step": 69,
+      "state": "NAVIGATING",
+      "position": [
+        4.702,
+        3.142
+      ],
+      "speed_ms": 1.103,
+      "clearance_m": 4.5,
+      "sensor_confidence": 0.7773,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.10m/s based on clearance=4.50m."
+    },
+    {
+      "step": 70,
+      "state": "NAVIGATING",
+      "position": [
+        4.812,
+        3.154
+      ],
+      "speed_ms": 1.019,
+      "clearance_m": 4.4,
+      "sensor_confidence": 0.778,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.02m/s based on clearance=4.40m."
+    },
+    {
+      "step": 71,
+      "state": "NAVIGATING",
+      "position": [
+        4.912,
+        3.174
+      ],
+      "speed_ms": 1.019,
+      "clearance_m": 4.3,
+      "sensor_confidence": 0.7786,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.02m/s based on clearance=4.30m."
+    },
+    {
+      "step": 72,
+      "state": "NAVIGATING",
+      "position": [
+        5.012,
+        3.194
+      ],
+      "speed_ms": 1.136,
+      "clearance_m": 4.15,
+      "sensor_confidence": 0.7792,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.14m/s based on clearance=4.15m."
+    },
+    {
+      "step": 73,
+      "state": "NAVIGATING",
+      "position": [
+        5.119,
+        3.233
+      ],
+      "speed_ms": 1.136,
+      "clearance_m": 4.05,
+      "sensor_confidence": 0.7797,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.14m/s based on clearance=4.05m."
+    },
+    {
+      "step": 74,
+      "state": "NAVIGATING",
+      "position": [
+        5.224,
+        3.276
+      ],
+      "speed_ms": 1.136,
+      "clearance_m": 3.95,
+      "sensor_confidence": 0.7802,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.14m/s based on clearance=3.95m."
+    },
+    {
+      "step": 75,
+      "state": "REPLANNING",
+      "position": [
+        5.329,
+        3.319
+      ],
+      "speed_ms": 1.2,
+      "clearance_m": 3.85,
+      "sensor_confidence": 0.7807,
+      "emergency": false,
+      "reasoning": "Path replanned. NA* found new corridor. Speed=1.20m/s"
+    },
+    {
+      "step": 76,
+      "state": "NAVIGATING",
+      "position": [
+        5.434,
+        3.377
+      ],
+      "speed_ms": 1.2,
+      "clearance_m": 3.9,
+      "sensor_confidence": 0.7811,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.20m/s based on clearance=3.90m."
+    },
+    {
+      "step": 77,
+      "state": "NAVIGATING",
+      "position": [
+        5.538,
+        3.436
+      ],
+      "speed_ms": 1.2,
+      "clearance_m": 3.75,
+      "sensor_confidence": 0.7814,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.20m/s based on clearance=3.75m."
+    },
+    {
+      "step": 78,
+      "state": "NAVIGATING",
+      "position": [
+        5.635,
+        3.508
+      ],
+      "speed_ms": 1.2,
+      "clearance_m": 3.8,
+      "sensor_confidence": 0.7818,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.20m/s based on clearance=3.80m."
+    },
+    {
+      "step": 79,
+      "state": "NAVIGATING",
+      "position": [
+        5.731,
+        3.58
+      ],
+      "speed_ms": 1.2,
+      "clearance_m": 3.7,
+      "sensor_confidence": 0.7822,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.20m/s based on clearance=3.70m."
+    },
+    {
+      "step": 80,
+      "state": "NAVIGATING",
+      "position": [
+        5.827,
+        3.652
+      ],
+      "speed_ms": 1.1999,
+      "clearance_m": 3.65,
+      "sensor_confidence": 0.782,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.20m/s based on clearance=3.65m."
+    },
+    {
+      "step": 81,
+      "state": "NAVIGATING",
+      "position": [
+        5.917,
+        3.73
+      ],
+      "speed_ms": 1.1999,
+      "clearance_m": 3.6,
+      "sensor_confidence": 0.7817,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.20m/s based on clearance=3.60m."
+    },
+    {
+      "step": 82,
+      "state": "NAVIGATING",
+      "position": [
+        6.008,
+        3.809
+      ],
+      "speed_ms": 1.1999,
+      "clearance_m": 3.45,
+      "sensor_confidence": 0.7815,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.20m/s based on clearance=3.45m."
+    },
+    {
+      "step": 83,
+      "state": "NAVIGATING",
+      "position": [
+        6.099,
+        3.887
+      ],
+      "speed_ms": 1.1998,
+      "clearance_m": 3.3,
+      "sensor_confidence": 0.7811,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.20m/s based on clearance=3.30m."
+    },
+    {
+      "step": 84,
+      "state": "NAVIGATING",
+      "position": [
+        6.187,
+        3.969
+      ],
+      "speed_ms": 1.1998,
+      "clearance_m": 3.2,
+      "sensor_confidence": 0.7808,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.20m/s based on clearance=3.20m."
+    },
+    {
+      "step": 85,
+      "state": "NAVIGATING",
+      "position": [
+        6.275,
+        4.05
+      ],
+      "speed_ms": 1.1998,
+      "clearance_m": 3.05,
+      "sensor_confidence": 0.7805,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.20m/s based on clearance=3.05m."
+    },
+    {
+      "step": 86,
+      "state": "NAVIGATING",
+      "position": [
+        6.363,
+        4.132
+      ],
+      "speed_ms": 1.1995,
+      "clearance_m": 2.95,
+      "sensor_confidence": 0.7803,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.20m/s based on clearance=2.95m."
+    },
+    {
+      "step": 87,
+      "state": "NAVIGATING",
+      "position": [
+        6.449,
+        4.215
+      ],
+      "speed_ms": 1.1995,
+      "clearance_m": 2.9,
+      "sensor_confidence": 0.7796,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.20m/s based on clearance=2.90m."
+    },
+    {
+      "step": 88,
+      "state": "NAVIGATING",
+      "position": [
+        6.536,
+        4.298
+      ],
+      "speed_ms": 1.1995,
+      "clearance_m": 2.85,
+      "sensor_confidence": 0.779,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.20m/s based on clearance=2.85m."
+    },
+    {
+      "step": 89,
+      "state": "NAVIGATING",
+      "position": [
+        6.622,
+        4.382
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7785,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 90,
+      "state": "NAVIGATING",
+      "position": [
+        6.636,
+        4.396
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7779,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 91,
+      "state": "NAVIGATING",
+      "position": [
+        6.65,
+        4.41
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7773,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 92,
+      "state": "NAVIGATING",
+      "position": [
+        6.665,
+        4.424
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7768,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 93,
+      "state": "NAVIGATING",
+      "position": [
+        6.679,
+        4.438
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7763,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 94,
+      "state": "NAVIGATING",
+      "position": [
+        6.693,
+        4.452
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7758,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 95,
+      "state": "REPLANNING",
+      "position": [
+        6.707,
+        4.466
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7753,
+      "emergency": false,
+      "reasoning": "Path replanned. Previous path conflicted with predicted obstacle trajectory. NA* found new corridor. Speed=0.20m/s"
+    },
+    {
+      "step": 96,
+      "state": "NAVIGATING",
+      "position": [
+        6.719,
+        4.482
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7748,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 97,
+      "state": "NAVIGATING",
+      "position": [
+        6.73,
+        4.499
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7747,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 98,
+      "state": "NAVIGATING",
+      "position": [
+        6.74,
+        4.516
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7746,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 99,
+      "state": "NAVIGATING",
+      "position": [
+        6.751,
+        4.533
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7744,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 100,
+      "state": "REPLANNING",
+      "position": [
+        6.761,
+        4.55
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7743,
+      "emergency": false,
+      "reasoning": "Path replanned. NA* found new corridor. Speed=0.20m/s"
+    },
+    {
+      "step": 101,
+      "state": "NAVIGATING",
+      "position": [
+        6.774,
+        4.565
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7738,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 102,
+      "state": "NAVIGATING",
+      "position": [
+        6.789,
+        4.579
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7737,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 103,
+      "state": "NAVIGATING",
+      "position": [
+        6.804,
+        4.592
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7736,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 104,
+      "state": "NAVIGATING",
+      "position": [
+        6.819,
+        4.605
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7734,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 105,
+      "state": "NAVIGATING",
+      "position": [
+        6.834,
+        4.618
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7733,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 106,
+      "state": "NAVIGATING",
+      "position": [
+        6.847,
+        4.634
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7729,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 107,
+      "state": "NAVIGATING",
+      "position": [
+        6.859,
+        4.649
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7725,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 108,
+      "state": "REPLANNING",
+      "position": [
+        6.871,
+        4.665
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7721,
+      "emergency": false,
+      "reasoning": "Path replanned. Previous path conflicted with predicted obstacle trajectory. NA* found new corridor. Speed=0.20m/s"
+    },
+    {
+      "step": 109,
+      "state": "NAVIGATING",
+      "position": [
+        6.883,
+        4.682
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7717,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 110,
+      "state": "REPLANNING",
+      "position": [
+        6.895,
+        4.698
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7713,
+      "emergency": false,
+      "reasoning": "Path replanned. Previous path conflicted with predicted obstacle trajectory. NA* found new corridor. Speed=0.20m/s"
+    },
+    {
+      "step": 111,
+      "state": "REPLANNING",
+      "position": [
+        6.906,
+        4.714
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7709,
+      "emergency": false,
+      "reasoning": "Path replanned. Previous path conflicted with predicted obstacle trajectory. NA* found new corridor. Speed=0.20m/s"
+    },
+    {
+      "step": 112,
+      "state": "REPLANNING",
+      "position": [
+        6.918,
+        4.73
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7705,
+      "emergency": false,
+      "reasoning": "Path replanned. Previous path conflicted with predicted obstacle trajectory. NA* found new corridor. Speed=0.20m/s"
+    },
+    {
+      "step": 113,
+      "state": "REPLANNING",
+      "position": [
+        6.929,
+        4.747
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.77,
+      "emergency": false,
+      "reasoning": "Path replanned. Previous path conflicted with predicted obstacle trajectory. NA* found new corridor. Speed=0.20m/s"
+    },
+    {
+      "step": 114,
+      "state": "REPLANNING",
+      "position": [
+        6.941,
+        4.763
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7695,
+      "emergency": false,
+      "reasoning": "Path replanned. Previous path conflicted with predicted obstacle trajectory. NA* found new corridor. Speed=0.20m/s"
+    },
+    {
+      "step": 115,
+      "state": "NAVIGATING",
+      "position": [
+        6.95,
+        4.781
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7697,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 116,
+      "state": "NAVIGATING",
+      "position": [
+        6.958,
+        4.799
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7696,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 117,
+      "state": "NAVIGATING",
+      "position": [
+        6.966,
+        4.817
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7696,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 118,
+      "state": "NAVIGATING",
+      "position": [
+        6.974,
+        4.836
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7696,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 119,
+      "state": "NAVIGATING",
+      "position": [
+        6.982,
+        4.854
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7695,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 120,
+      "state": "NAVIGATING",
+      "position": [
+        6.99,
+        4.872
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7693,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 121,
+      "state": "NAVIGATING",
+      "position": [
+        6.998,
+        4.891
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7691,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 122,
+      "state": "NAVIGATING",
+      "position": [
+        7.006,
+        4.909
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.769,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 123,
+      "state": "NAVIGATING",
+      "position": [
+        7.014,
+        4.927
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7688,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 124,
+      "state": "NAVIGATING",
+      "position": [
+        7.022,
+        4.946
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7685,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 125,
+      "state": "REPLANNING",
+      "position": [
+        7.03,
+        4.964
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7681,
+      "emergency": false,
+      "reasoning": "Path replanned. NA* found new corridor. Speed=0.20m/s"
+    },
+    {
+      "step": 126,
+      "state": "NAVIGATING",
+      "position": [
+        7.037,
+        4.983
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7681,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 127,
+      "state": "NAVIGATING",
+      "position": [
+        7.044,
+        5.002
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7678,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 128,
+      "state": "NAVIGATING",
+      "position": [
+        7.05,
+        5.021
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7676,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 129,
+      "state": "NAVIGATING",
+      "position": [
+        7.057,
+        5.04
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7674,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 130,
+      "state": "NAVIGATING",
+      "position": [
+        7.063,
+        5.058
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7672,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 131,
+      "state": "NAVIGATING",
+      "position": [
+        7.07,
+        5.077
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7669,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 132,
+      "state": "NAVIGATING",
+      "position": [
+        7.076,
+        5.096
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7667,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 133,
+      "state": "NAVIGATING",
+      "position": [
+        7.083,
+        5.115
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7667,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 134,
+      "state": "NAVIGATING",
+      "position": [
+        7.09,
+        5.134
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7665,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 135,
+      "state": "NAVIGATING",
+      "position": [
+        7.096,
+        5.153
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.766,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 136,
+      "state": "NAVIGATING",
+      "position": [
+        7.103,
+        5.172
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7655,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 137,
+      "state": "NAVIGATING",
+      "position": [
+        7.109,
+        5.191
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.765,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 138,
+      "state": "NAVIGATING",
+      "position": [
+        7.116,
+        5.21
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7645,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 139,
+      "state": "NAVIGATING",
+      "position": [
+        7.123,
+        5.228
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7641,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 140,
+      "state": "NAVIGATING",
+      "position": [
+        7.129,
+        5.247
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7636,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 141,
+      "state": "NAVIGATING",
+      "position": [
+        7.136,
+        5.266
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7631,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 142,
+      "state": "NAVIGATING",
+      "position": [
+        7.145,
+        5.284
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7625,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 143,
+      "state": "NAVIGATING",
+      "position": [
+        7.153,
+        5.302
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7618,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 144,
+      "state": "NAVIGATING",
+      "position": [
+        7.162,
+        5.32
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7614,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 145,
+      "state": "NAVIGATING",
+      "position": [
+        7.171,
+        5.338
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.761,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 146,
+      "state": "NAVIGATING",
+      "position": [
+        7.18,
+        5.356
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7606,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 147,
+      "state": "NAVIGATING",
+      "position": [
+        7.189,
+        5.374
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7601,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 148,
+      "state": "NAVIGATING",
+      "position": [
+        7.198,
+        5.392
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7597,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 149,
+      "state": "NAVIGATING",
+      "position": [
+        7.207,
+        5.41
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7593,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 150,
+      "state": "REPLANNING",
+      "position": [
+        7.215,
+        5.428
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7586,
+      "emergency": false,
+      "reasoning": "Path replanned. NA* found new corridor. Speed=0.20m/s"
+    },
+    {
+      "step": 151,
+      "state": "NAVIGATING",
+      "position": [
+        7.227,
+        5.444
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7585,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 152,
+      "state": "NAVIGATING",
+      "position": [
+        7.24,
+        5.459
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7583,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 153,
+      "state": "NAVIGATING",
+      "position": [
+        7.254,
+        5.473
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7581,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 154,
+      "state": "NAVIGATING",
+      "position": [
+        7.268,
+        5.488
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7579,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 155,
+      "state": "NAVIGATING",
+      "position": [
+        7.281,
+        5.503
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7577,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 156,
+      "state": "NAVIGATING",
+      "position": [
+        7.295,
+        5.517
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7575,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 157,
+      "state": "NAVIGATING",
+      "position": [
+        7.308,
+        5.532
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7574,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 158,
+      "state": "NAVIGATING",
+      "position": [
+        7.322,
+        5.547
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7572,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 159,
+      "state": "NAVIGATING",
+      "position": [
+        7.335,
+        5.562
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.757,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 160,
+      "state": "NAVIGATING",
+      "position": [
+        7.349,
+        5.576
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7569,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 161,
+      "state": "NAVIGATING",
+      "position": [
+        7.363,
+        5.591
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7568,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 162,
+      "state": "NAVIGATING",
+      "position": [
+        7.376,
+        5.605
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7567,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 163,
+      "state": "NAVIGATING",
+      "position": [
+        7.39,
+        5.62
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7565,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 164,
+      "state": "NAVIGATING",
+      "position": [
+        7.404,
+        5.634
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7562,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 165,
+      "state": "NAVIGATING",
+      "position": [
+        7.418,
+        5.649
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7561,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 166,
+      "state": "NAVIGATING",
+      "position": [
+        7.432,
+        5.663
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7561,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 167,
+      "state": "NAVIGATING",
+      "position": [
+        7.446,
+        5.677
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.756,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 168,
+      "state": "NAVIGATING",
+      "position": [
+        7.459,
+        5.692
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7559,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 169,
+      "state": "NAVIGATING",
+      "position": [
+        7.473,
+        5.706
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7559,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 170,
+      "state": "NAVIGATING",
+      "position": [
+        7.487,
+        5.721
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7558,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 171,
+      "state": "NAVIGATING",
+      "position": [
+        7.501,
+        5.735
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.756,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 172,
+      "state": "NAVIGATING",
+      "position": [
+        7.515,
+        5.75
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7562,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 173,
+      "state": "NAVIGATING",
+      "position": [
+        7.529,
+        5.764
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7563,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 174,
+      "state": "NAVIGATING",
+      "position": [
+        7.543,
+        5.779
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7564,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 175,
+      "state": "REPLANNING",
+      "position": [
+        7.556,
+        5.793
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7566,
+      "emergency": false,
+      "reasoning": "Path replanned. NA* found new corridor. Speed=0.20m/s"
+    },
+    {
+      "step": 176,
+      "state": "NAVIGATING",
+      "position": [
+        7.57,
+        5.807
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7567,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 177,
+      "state": "NAVIGATING",
+      "position": [
+        7.584,
+        5.822
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7569,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 178,
+      "state": "NAVIGATING",
+      "position": [
+        7.598,
+        5.836
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.757,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 179,
+      "state": "NAVIGATING",
+      "position": [
+        7.612,
+        5.851
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7572,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 180,
+      "state": "NAVIGATING",
+      "position": [
+        7.626,
+        5.865
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7573,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 181,
+      "state": "NAVIGATING",
+      "position": [
+        7.64,
+        5.879
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7575,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 182,
+      "state": "NAVIGATING",
+      "position": [
+        7.654,
+        5.894
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7576,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 183,
+      "state": "NAVIGATING",
+      "position": [
+        7.668,
+        5.908
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7578,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 184,
+      "state": "NAVIGATING",
+      "position": [
+        7.682,
+        5.922
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7579,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 185,
+      "state": "NAVIGATING",
+      "position": [
+        7.696,
+        5.936
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.758,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 186,
+      "state": "NAVIGATING",
+      "position": [
+        7.71,
+        5.951
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.758,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 187,
+      "state": "NAVIGATING",
+      "position": [
+        7.724,
+        5.965
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7581,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 188,
+      "state": "NAVIGATING",
+      "position": [
+        7.738,
+        5.979
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7582,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 189,
+      "state": "NAVIGATING",
+      "position": [
+        7.752,
+        5.994
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7583,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 190,
+      "state": "NAVIGATING",
+      "position": [
+        7.766,
+        6.008
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7584,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 191,
+      "state": "NAVIGATING",
+      "position": [
+        7.78,
+        6.022
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7585,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 192,
+      "state": "NAVIGATING",
+      "position": [
+        7.794,
+        6.036
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7586,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 193,
+      "state": "NAVIGATING",
+      "position": [
+        7.808,
+        6.051
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7588,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 194,
+      "state": "NAVIGATING",
+      "position": [
+        7.822,
+        6.065
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.759,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 195,
+      "state": "NAVIGATING",
+      "position": [
+        7.836,
+        6.079
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7593,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 196,
+      "state": "NAVIGATING",
+      "position": [
+        7.85,
+        6.094
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7595,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 197,
+      "state": "NAVIGATING",
+      "position": [
+        7.864,
+        6.108
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7597,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 198,
+      "state": "NAVIGATING",
+      "position": [
+        7.878,
+        6.122
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7599,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 199,
+      "state": "NAVIGATING",
+      "position": [
+        7.892,
+        6.136
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7602,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 200,
+      "state": "REPLANNING",
+      "position": [
+        7.906,
+        6.151
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7604,
+      "emergency": false,
+      "reasoning": "Path replanned. NA* found new corridor. Speed=0.20m/s"
+    },
+    {
+      "step": 201,
+      "state": "NAVIGATING",
+      "position": [
+        7.92,
+        6.165
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7607,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 202,
+      "state": "NAVIGATING",
+      "position": [
+        7.934,
+        6.179
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7609,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 203,
+      "state": "NAVIGATING",
+      "position": [
+        7.948,
+        6.193
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7612,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 204,
+      "state": "NAVIGATING",
+      "position": [
+        7.962,
+        6.207
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7616,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 205,
+      "state": "NAVIGATING",
+      "position": [
+        7.976,
+        6.222
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.762,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 206,
+      "state": "NAVIGATING",
+      "position": [
+        7.99,
+        6.236
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7623,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 207,
+      "state": "NAVIGATING",
+      "position": [
+        8.004,
+        6.25
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7627,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 208,
+      "state": "NAVIGATING",
+      "position": [
+        8.018,
+        6.264
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7631,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 209,
+      "state": "NAVIGATING",
+      "position": [
+        8.032,
+        6.279
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7634,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 210,
+      "state": "NAVIGATING",
+      "position": [
+        8.046,
+        6.293
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7638,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 211,
+      "state": "NAVIGATING",
+      "position": [
+        8.061,
+        6.307
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7641,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 212,
+      "state": "NAVIGATING",
+      "position": [
+        8.075,
+        6.321
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7645,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 213,
+      "state": "NAVIGATING",
+      "position": [
+        8.089,
+        6.335
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7649,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 214,
+      "state": "NAVIGATING",
+      "position": [
+        8.103,
+        6.35
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7652,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 215,
+      "state": "NAVIGATING",
+      "position": [
+        8.117,
+        6.364
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7656,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 216,
+      "state": "NAVIGATING",
+      "position": [
+        8.131,
+        6.378
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7659,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 217,
+      "state": "NAVIGATING",
+      "position": [
+        8.145,
+        6.392
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7663,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 218,
+      "state": "NAVIGATING",
+      "position": [
+        8.159,
+        6.406
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7666,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 219,
+      "state": "NAVIGATING",
+      "position": [
+        8.173,
+        6.421
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.767,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 220,
+      "state": "NAVIGATING",
+      "position": [
+        8.187,
+        6.435
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7673,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 221,
+      "state": "NAVIGATING",
+      "position": [
+        8.201,
+        6.449
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7677,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 222,
+      "state": "NAVIGATING",
+      "position": [
+        8.216,
+        6.463
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.768,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 223,
+      "state": "NAVIGATING",
+      "position": [
+        8.23,
+        6.477
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7684,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 224,
+      "state": "NAVIGATING",
+      "position": [
+        8.244,
+        6.491
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7687,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 225,
+      "state": "REPLANNING",
+      "position": [
+        8.258,
+        6.506
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7691,
+      "emergency": false,
+      "reasoning": "Path replanned. NA* found new corridor. Speed=0.20m/s"
+    },
+    {
+      "step": 226,
+      "state": "NAVIGATING",
+      "position": [
+        8.272,
+        6.52
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7694,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 227,
+      "state": "NAVIGATING",
+      "position": [
+        8.286,
+        6.534
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7699,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 228,
+      "state": "NAVIGATING",
+      "position": [
+        8.3,
+        6.548
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7703,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 229,
+      "state": "NAVIGATING",
+      "position": [
+        8.314,
+        6.562
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7707,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 230,
+      "state": "NAVIGATING",
+      "position": [
+        8.328,
+        6.577
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7712,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 231,
+      "state": "NAVIGATING",
+      "position": [
+        8.342,
+        6.591
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7716,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 232,
+      "state": "NAVIGATING",
+      "position": [
+        8.357,
+        6.605
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.772,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 233,
+      "state": "NAVIGATING",
+      "position": [
+        8.371,
+        6.619
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7724,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 234,
+      "state": "NAVIGATING",
+      "position": [
+        8.385,
+        6.633
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7728,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 235,
+      "state": "NAVIGATING",
+      "position": [
+        8.399,
+        6.647
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7732,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 236,
+      "state": "NAVIGATING",
+      "position": [
+        8.413,
+        6.662
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7736,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 237,
+      "state": "NAVIGATING",
+      "position": [
+        8.427,
+        6.676
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.774,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 238,
+      "state": "NAVIGATING",
+      "position": [
+        8.441,
+        6.69
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7744,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 239,
+      "state": "NAVIGATING",
+      "position": [
+        8.455,
+        6.704
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7748,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 240,
+      "state": "NAVIGATING",
+      "position": [
+        8.47,
+        6.718
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7752,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 241,
+      "state": "NAVIGATING",
+      "position": [
+        8.484,
+        6.732
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7756,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 242,
+      "state": "NAVIGATING",
+      "position": [
+        8.498,
+        6.747
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7759,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 243,
+      "state": "NAVIGATING",
+      "position": [
+        8.512,
+        6.761
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7763,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 244,
+      "state": "NAVIGATING",
+      "position": [
+        8.526,
+        6.775
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7767,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 245,
+      "state": "NAVIGATING",
+      "position": [
+        8.54,
+        6.789
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7771,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 246,
+      "state": "NAVIGATING",
+      "position": [
+        8.554,
+        6.803
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7774,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 247,
+      "state": "NAVIGATING",
+      "position": [
+        8.568,
+        6.817
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7778,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 248,
+      "state": "NAVIGATING",
+      "position": [
+        8.582,
+        6.832
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7782,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 249,
+      "state": "NAVIGATING",
+      "position": [
+        8.597,
+        6.846
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7786,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 250,
+      "state": "REPLANNING",
+      "position": [
+        8.611,
+        6.86
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.779,
+      "emergency": false,
+      "reasoning": "Path replanned. NA* found new corridor. Speed=0.20m/s"
+    },
+    {
+      "step": 251,
+      "state": "NAVIGATING",
+      "position": [
+        8.625,
+        6.874
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7793,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 252,
+      "state": "NAVIGATING",
+      "position": [
+        8.639,
+        6.888
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7797,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 253,
+      "state": "NAVIGATING",
+      "position": [
+        8.653,
+        6.902
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7801,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 254,
+      "state": "NAVIGATING",
+      "position": [
+        8.667,
+        6.917
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7805,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 255,
+      "state": "NAVIGATING",
+      "position": [
+        8.681,
+        6.931
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7808,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 256,
+      "state": "NAVIGATING",
+      "position": [
+        8.696,
+        6.945
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7813,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 257,
+      "state": "NAVIGATING",
+      "position": [
+        8.71,
+        6.959
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7818,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 258,
+      "state": "NAVIGATING",
+      "position": [
+        8.724,
+        6.973
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7823,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 259,
+      "state": "NAVIGATING",
+      "position": [
+        8.738,
+        6.987
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7828,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 260,
+      "state": "NAVIGATING",
+      "position": [
+        8.752,
+        7.001
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7833,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 261,
+      "state": "NAVIGATING",
+      "position": [
+        8.766,
+        7.016
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7838,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 262,
+      "state": "NAVIGATING",
+      "position": [
+        8.78,
+        7.03
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7843,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 263,
+      "state": "NAVIGATING",
+      "position": [
+        8.794,
+        7.044
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7847,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 264,
+      "state": "NAVIGATING",
+      "position": [
+        8.809,
+        7.058
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7852,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 265,
+      "state": "NAVIGATING",
+      "position": [
+        8.823,
+        7.072
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7857,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 266,
+      "state": "NAVIGATING",
+      "position": [
+        8.837,
+        7.086
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7862,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 267,
+      "state": "NAVIGATING",
+      "position": [
+        8.851,
+        7.101
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7866,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 268,
+      "state": "NAVIGATING",
+      "position": [
+        8.865,
+        7.115
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7871,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 269,
+      "state": "NAVIGATING",
+      "position": [
+        8.879,
+        7.129
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7875,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 270,
+      "state": "NAVIGATING",
+      "position": [
+        8.893,
+        7.143
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.788,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 271,
+      "state": "NAVIGATING",
+      "position": [
+        8.907,
+        7.157
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7885,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 272,
+      "state": "NAVIGATING",
+      "position": [
+        8.922,
+        7.171
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7889,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 273,
+      "state": "NAVIGATING",
+      "position": [
+        8.936,
+        7.185
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7894,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 274,
+      "state": "NAVIGATING",
+      "position": [
+        8.95,
+        7.2
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7898,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 275,
+      "state": "REPLANNING",
+      "position": [
+        8.964,
+        7.214
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7903,
+      "emergency": false,
+      "reasoning": "Path replanned. NA* found new corridor. Speed=0.20m/s"
+    },
+    {
+      "step": 276,
+      "state": "NAVIGATING",
+      "position": [
+        8.978,
+        7.228
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7907,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 277,
+      "state": "NAVIGATING",
+      "position": [
+        8.992,
+        7.242
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7911,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 278,
+      "state": "NAVIGATING",
+      "position": [
+        9.006,
+        7.256
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7916,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 279,
+      "state": "NAVIGATING",
+      "position": [
+        9.021,
+        7.27
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.792,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 280,
+      "state": "NAVIGATING",
+      "position": [
+        9.035,
+        7.284
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7925,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 281,
+      "state": "NAVIGATING",
+      "position": [
+        9.049,
+        7.299
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7929,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 282,
+      "state": "NAVIGATING",
+      "position": [
+        9.063,
+        7.313
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7934,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 283,
+      "state": "NAVIGATING",
+      "position": [
+        9.077,
+        7.327
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7938,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 284,
+      "state": "NAVIGATING",
+      "position": [
+        9.091,
+        7.341
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7942,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 285,
+      "state": "NAVIGATING",
+      "position": [
+        9.105,
+        7.355
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7947,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 286,
+      "state": "NAVIGATING",
+      "position": [
+        9.12,
+        7.369
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7951,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 287,
+      "state": "NAVIGATING",
+      "position": [
+        9.134,
+        7.383
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7956,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 288,
+      "state": "NAVIGATING",
+      "position": [
+        9.148,
+        7.398
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.796,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 289,
+      "state": "NAVIGATING",
+      "position": [
+        9.162,
+        7.412
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7964,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 290,
+      "state": "NAVIGATING",
+      "position": [
+        9.176,
+        7.426
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7968,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 291,
+      "state": "NAVIGATING",
+      "position": [
+        9.19,
+        7.44
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7973,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 292,
+      "state": "NAVIGATING",
+      "position": [
+        9.204,
+        7.454
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7976,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 293,
+      "state": "NAVIGATING",
+      "position": [
+        9.219,
+        7.468
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7979,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 294,
+      "state": "NAVIGATING",
+      "position": [
+        9.233,
+        7.482
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7982,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 295,
+      "state": "NAVIGATING",
+      "position": [
+        9.247,
+        7.497
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7986,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 296,
+      "state": "NAVIGATING",
+      "position": [
+        9.261,
+        7.511
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7989,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 297,
+      "state": "NAVIGATING",
+      "position": [
+        9.275,
+        7.525
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7992,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 298,
+      "state": "NAVIGATING",
+      "position": [
+        9.289,
+        7.539
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7995,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 299,
+      "state": "NAVIGATING",
+      "position": [
+        9.303,
+        7.553
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.7998,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 300,
+      "state": "REPLANNING",
+      "position": [
+        9.317,
+        7.567
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8002,
+      "emergency": false,
+      "reasoning": "Path replanned. NA* found new corridor. Speed=0.20m/s"
+    },
+    {
+      "step": 301,
+      "state": "NAVIGATING",
+      "position": [
+        9.332,
+        7.582
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8005,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 302,
+      "state": "NAVIGATING",
+      "position": [
+        9.346,
+        7.596
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8008,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 303,
+      "state": "NAVIGATING",
+      "position": [
+        9.36,
+        7.61
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8011,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 304,
+      "state": "NAVIGATING",
+      "position": [
+        9.374,
+        7.624
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8014,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 305,
+      "state": "NAVIGATING",
+      "position": [
+        9.388,
+        7.638
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8018,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 306,
+      "state": "NAVIGATING",
+      "position": [
+        9.402,
+        7.652
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8021,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 307,
+      "state": "NAVIGATING",
+      "position": [
+        9.416,
+        7.666
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8024,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 308,
+      "state": "NAVIGATING",
+      "position": [
+        9.431,
+        7.681
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8027,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 309,
+      "state": "NAVIGATING",
+      "position": [
+        9.445,
+        7.695
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8031,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 310,
+      "state": "NAVIGATING",
+      "position": [
+        9.459,
+        7.709
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8034,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 311,
+      "state": "NAVIGATING",
+      "position": [
+        9.473,
+        7.723
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8037,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 312,
+      "state": "NAVIGATING",
+      "position": [
+        9.487,
+        7.737
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.804,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 313,
+      "state": "NAVIGATING",
+      "position": [
+        9.501,
+        7.751
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8044,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 314,
+      "state": "NAVIGATING",
+      "position": [
+        9.515,
+        7.765
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8048,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 315,
+      "state": "NAVIGATING",
+      "position": [
+        9.53,
+        7.78
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8052,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 316,
+      "state": "NAVIGATING",
+      "position": [
+        9.544,
+        7.794
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8056,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 317,
+      "state": "NAVIGATING",
+      "position": [
+        9.558,
+        7.808
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.806,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 318,
+      "state": "NAVIGATING",
+      "position": [
+        9.572,
+        7.822
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8065,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 319,
+      "state": "NAVIGATING",
+      "position": [
+        9.586,
+        7.836
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8069,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 320,
+      "state": "NAVIGATING",
+      "position": [
+        9.6,
+        7.85
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8073,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 321,
+      "state": "NAVIGATING",
+      "position": [
+        9.614,
+        7.864
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8077,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 322,
+      "state": "NAVIGATING",
+      "position": [
+        9.629,
+        7.879
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8081,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 323,
+      "state": "NAVIGATING",
+      "position": [
+        9.643,
+        7.893
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8085,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 324,
+      "state": "NAVIGATING",
+      "position": [
+        9.657,
+        7.907
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8089,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 325,
+      "state": "REPLANNING",
+      "position": [
+        9.671,
+        7.921
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8093,
+      "emergency": false,
+      "reasoning": "Path replanned. NA* found new corridor. Speed=0.20m/s"
+    },
+    {
+      "step": 326,
+      "state": "NAVIGATING",
+      "position": [
+        9.685,
+        7.935
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8097,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 327,
+      "state": "NAVIGATING",
+      "position": [
+        9.699,
+        7.949
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8101,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 328,
+      "state": "NAVIGATING",
+      "position": [
+        9.713,
+        7.963
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8105,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 329,
+      "state": "NAVIGATING",
+      "position": [
+        9.728,
+        7.978
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8109,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 330,
+      "state": "NAVIGATING",
+      "position": [
+        9.742,
+        7.992
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8113,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 331,
+      "state": "NAVIGATING",
+      "position": [
+        9.756,
+        8.006
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8117,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 332,
+      "state": "NAVIGATING",
+      "position": [
+        9.77,
+        8.02
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8121,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 333,
+      "state": "NAVIGATING",
+      "position": [
+        9.784,
+        8.034
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8125,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 334,
+      "state": "NAVIGATING",
+      "position": [
+        9.798,
+        8.048
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8128,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 335,
+      "state": "NAVIGATING",
+      "position": [
+        9.812,
+        8.062
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8132,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 336,
+      "state": "NAVIGATING",
+      "position": [
+        9.827,
+        8.077
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8136,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 337,
+      "state": "NAVIGATING",
+      "position": [
+        9.841,
+        8.091
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8139,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 338,
+      "state": "NAVIGATING",
+      "position": [
+        9.855,
+        8.105
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8143,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 339,
+      "state": "NAVIGATING",
+      "position": [
+        9.869,
+        8.119
+      ],
+      "speed_ms": 1.1998,
+      "clearance_m": 4.95,
+      "sensor_confidence": 0.8147,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.20m/s based on clearance=4.95m."
+    },
+    {
+      "step": 340,
+      "state": "NAVIGATING",
+      "position": [
+        9.954,
+        8.204
+      ],
+      "speed_ms": 1.1998,
+      "clearance_m": 4.85,
+      "sensor_confidence": 0.8151,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.20m/s based on clearance=4.85m."
+    },
+    {
+      "step": 341,
+      "state": "NAVIGATING",
+      "position": [
+        10.039,
+        8.289
+      ],
+      "speed_ms": 1.1998,
+      "clearance_m": 4.7,
+      "sensor_confidence": 0.8154,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.20m/s based on clearance=4.70m."
+    },
+    {
+      "step": 342,
+      "state": "NAVIGATING",
+      "position": [
+        10.123,
+        8.374
+      ],
+      "speed_ms": 1.1996,
+      "clearance_m": 4.6,
+      "sensor_confidence": 0.8158,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.20m/s based on clearance=4.60m."
+    },
+    {
+      "step": 343,
+      "state": "NAVIGATING",
+      "position": [
+        10.208,
+        8.458
+      ],
+      "speed_ms": 1.1996,
+      "clearance_m": 4.5,
+      "sensor_confidence": 0.8161,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.20m/s based on clearance=4.50m."
+    },
+    {
+      "step": 344,
+      "state": "NAVIGATING",
+      "position": [
+        10.293,
+        8.543
+      ],
+      "speed_ms": 1.1996,
+      "clearance_m": 4.35,
+      "sensor_confidence": 0.8165,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.20m/s based on clearance=4.35m."
+    },
+    {
+      "step": 345,
+      "state": "NAVIGATING",
+      "position": [
+        10.378,
+        8.628
+      ],
+      "speed_ms": 1.199,
+      "clearance_m": 4.25,
+      "sensor_confidence": 0.8168,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.20m/s based on clearance=4.25m."
+    },
+    {
+      "step": 346,
+      "state": "NAVIGATING",
+      "position": [
+        10.462,
+        8.713
+      ],
+      "speed_ms": 1.199,
+      "clearance_m": 4.1,
+      "sensor_confidence": 0.8171,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.20m/s based on clearance=4.10m."
+    },
+    {
+      "step": 347,
+      "state": "NAVIGATING",
+      "position": [
+        10.547,
+        8.798
+      ],
+      "speed_ms": 1.199,
+      "clearance_m": 4.0,
+      "sensor_confidence": 0.8175,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.20m/s based on clearance=4.00m."
+    },
+    {
+      "step": 348,
+      "state": "NAVIGATING",
+      "position": [
+        10.632,
+        8.883
+      ],
+      "speed_ms": 1.1979,
+      "clearance_m": 3.9,
+      "sensor_confidence": 0.8178,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.20m/s based on clearance=3.90m."
+    },
+    {
+      "step": 349,
+      "state": "NAVIGATING",
+      "position": [
+        10.716,
+        8.968
+      ],
+      "speed_ms": 1.1979,
+      "clearance_m": 3.75,
+      "sensor_confidence": 0.8181,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.20m/s based on clearance=3.75m."
+    },
+    {
+      "step": 350,
+      "state": "REPLANNING",
+      "position": [
+        10.801,
+        9.052
+      ],
+      "speed_ms": 1.2,
+      "clearance_m": 3.65,
+      "sensor_confidence": 0.8184,
+      "emergency": false,
+      "reasoning": "Path replanned. NA* found new corridor. Speed=1.20m/s"
+    },
+    {
+      "step": 351,
+      "state": "NAVIGATING",
+      "position": [
+        10.886,
+        9.137
+      ],
+      "speed_ms": 1.0686,
+      "clearance_m": 3.5,
+      "sensor_confidence": 0.8187,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.07m/s based on clearance=3.50m."
+    },
+    {
+      "step": 352,
+      "state": "NAVIGATING",
+      "position": [
+        10.95,
+        9.223
+      ],
+      "speed_ms": 1.0686,
+      "clearance_m": 3.4,
+      "sensor_confidence": 0.8191,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.07m/s based on clearance=3.40m."
+    },
+    {
+      "step": 353,
+      "state": "NAVIGATING",
+      "position": [
+        11.012,
+        9.31
+      ],
+      "speed_ms": 1.1557,
+      "clearance_m": 3.35,
+      "sensor_confidence": 0.8194,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.16m/s based on clearance=3.35m."
+    },
+    {
+      "step": 354,
+      "state": "NAVIGATING",
+      "position": [
+        11.079,
+        9.404
+      ],
+      "speed_ms": 1.1557,
+      "clearance_m": 3.2,
+      "sensor_confidence": 0.8198,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.16m/s based on clearance=3.20m."
+    },
+    {
+      "step": 355,
+      "state": "NAVIGATING",
+      "position": [
+        11.147,
+        9.497
+      ],
+      "speed_ms": 1.1557,
+      "clearance_m": 3.1,
+      "sensor_confidence": 0.8201,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.16m/s based on clearance=3.10m."
+    },
+    {
+      "step": 356,
+      "state": "NAVIGATING",
+      "position": [
+        11.215,
+        9.591
+      ],
+      "speed_ms": 1.1907,
+      "clearance_m": 3.0,
+      "sensor_confidence": 0.8203,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.19m/s based on clearance=3.00m."
+    },
+    {
+      "step": 357,
+      "state": "NAVIGATING",
+      "position": [
+        11.288,
+        9.684
+      ],
+      "speed_ms": 1.1907,
+      "clearance_m": 2.85,
+      "sensor_confidence": 0.8206,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.19m/s based on clearance=2.85m."
+    },
+    {
+      "step": 358,
+      "state": "NAVIGATING",
+      "position": [
+        11.362,
+        9.778
+      ],
+      "speed_ms": 1.1907,
+      "clearance_m": 2.75,
+      "sensor_confidence": 0.8208,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.19m/s based on clearance=2.75m."
+    },
+    {
+      "step": 359,
+      "state": "NAVIGATING",
+      "position": [
+        11.436,
+        9.872
+      ],
+      "speed_ms": 1.1834,
+      "clearance_m": 2.65,
+      "sensor_confidence": 0.821,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.18m/s based on clearance=2.65m."
+    },
+    {
+      "step": 360,
+      "state": "NAVIGATING",
+      "position": [
+        11.512,
+        9.962
+      ],
+      "speed_ms": 1.1834,
+      "clearance_m": 2.5,
+      "sensor_confidence": 0.8212,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.18m/s based on clearance=2.50m."
+    },
+    {
+      "step": 361,
+      "state": "NAVIGATING",
+      "position": [
+        11.588,
+        10.053
+      ],
+      "speed_ms": 1.0453,
+      "clearance_m": 2.4,
+      "sensor_confidence": 0.8212,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.05m/s based on clearance=2.40m."
+    },
+    {
+      "step": 362,
+      "state": "NAVIGATING",
+      "position": [
+        11.655,
+        10.133
+      ],
+      "speed_ms": 0.8745,
+      "clearance_m": 2.3,
+      "sensor_confidence": 0.8213,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.87m/s based on clearance=2.30m."
+    },
+    {
+      "step": 363,
+      "state": "NAVIGATING",
+      "position": [
+        11.711,
+        10.2
+      ],
+      "speed_ms": 0.7414,
+      "clearance_m": 2.2,
+      "sensor_confidence": 0.8214,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.74m/s based on clearance=2.20m."
+    },
+    {
+      "step": 364,
+      "state": "NAVIGATING",
+      "position": [
+        11.758,
+        10.257
+      ],
+      "speed_ms": 0.6749,
+      "clearance_m": 2.15,
+      "sensor_confidence": 0.8215,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.67m/s based on clearance=2.15m."
+    },
+    {
+      "step": 365,
+      "state": "NAVIGATING",
+      "position": [
+        11.802,
+        10.309
+      ],
+      "speed_ms": 0.5418,
+      "clearance_m": 2.05,
+      "sensor_confidence": 0.8216,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.54m/s based on clearance=2.05m."
+    },
+    {
+      "step": 366,
+      "state": "NAVIGATING",
+      "position": [
+        11.837,
+        10.35
+      ],
+      "speed_ms": 0.4265,
+      "clearance_m": 2.0,
+      "sensor_confidence": 0.8217,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.43m/s based on clearance=2.00m."
+    },
+    {
+      "step": 367,
+      "state": "NAVIGATING",
+      "position": [
+        11.862,
+        10.384
+      ],
+      "speed_ms": 0.4265,
+      "clearance_m": 1.95,
+      "sensor_confidence": 0.8218,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.43m/s based on clearance=1.95m."
+    },
+    {
+      "step": 368,
+      "state": "NAVIGATING",
+      "position": [
+        11.888,
+        10.418
+      ],
+      "speed_ms": 0.4265,
+      "clearance_m": 1.9,
+      "sensor_confidence": 0.822,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.43m/s based on clearance=1.90m."
+    },
+    {
+      "step": 369,
+      "state": "NAVIGATING",
+      "position": [
+        11.914,
+        10.452
+      ],
+      "speed_ms": 0.4265,
+      "clearance_m": 1.85,
+      "sensor_confidence": 0.8221,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.43m/s based on clearance=1.85m."
+    },
+    {
+      "step": 370,
+      "state": "NAVIGATING",
+      "position": [
+        11.94,
+        10.486
+      ],
+      "speed_ms": 0.4265,
+      "clearance_m": 1.85,
+      "sensor_confidence": 0.8223,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.43m/s based on clearance=1.85m."
+    },
+    {
+      "step": 371,
+      "state": "NAVIGATING",
+      "position": [
+        11.966,
+        10.52
+      ],
+      "speed_ms": 0.4265,
+      "clearance_m": 1.8,
+      "sensor_confidence": 0.8224,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.43m/s based on clearance=1.80m."
+    },
+    {
+      "step": 372,
+      "state": "NAVIGATING",
+      "position": [
+        11.992,
+        10.554
+      ],
+      "speed_ms": 0.4265,
+      "clearance_m": 1.75,
+      "sensor_confidence": 0.8226,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.43m/s based on clearance=1.75m."
+    },
+    {
+      "step": 373,
+      "state": "NAVIGATING",
+      "position": [
+        12.018,
+        10.588
+      ],
+      "speed_ms": 0.4626,
+      "clearance_m": 1.7,
+      "sensor_confidence": 0.8228,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.46m/s based on clearance=1.70m."
+    },
+    {
+      "step": 374,
+      "state": "NAVIGATING",
+      "position": [
+        12.04,
+        10.628
+      ],
+      "speed_ms": 0.4626,
+      "clearance_m": 1.75,
+      "sensor_confidence": 0.823,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.46m/s based on clearance=1.75m."
+    },
+    {
+      "step": 375,
+      "state": "REPLANNING",
+      "position": [
+        12.063,
+        10.669
+      ],
+      "speed_ms": 0.4986,
+      "clearance_m": 1.7,
+      "sensor_confidence": 0.8231,
+      "emergency": false,
+      "reasoning": "Path replanned. NA* found new corridor. Speed=0.50m/s"
+    },
+    {
+      "step": 376,
+      "state": "NAVIGATING",
+      "position": [
+        12.091,
+        10.71
+      ],
+      "speed_ms": 0.4986,
+      "clearance_m": 1.6,
+      "sensor_confidence": 0.8232,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.50m/s based on clearance=1.60m."
+    },
+    {
+      "step": 377,
+      "state": "NAVIGATING",
+      "position": [
+        12.119,
+        10.751
+      ],
+      "speed_ms": 0.4986,
+      "clearance_m": 1.55,
+      "sensor_confidence": 0.8234,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.50m/s based on clearance=1.55m."
+    },
+    {
+      "step": 378,
+      "state": "NAVIGATING",
+      "position": [
+        12.148,
+        10.792
+      ],
+      "speed_ms": 0.4986,
+      "clearance_m": 1.5,
+      "sensor_confidence": 0.8236,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.50m/s based on clearance=1.50m."
+    },
+    {
+      "step": 379,
+      "state": "NAVIGATING",
+      "position": [
+        12.176,
+        10.833
+      ],
+      "speed_ms": 0.4962,
+      "clearance_m": 1.45,
+      "sensor_confidence": 0.8238,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.50m/s based on clearance=1.45m."
+    },
+    {
+      "step": 380,
+      "state": "NAVIGATING",
+      "position": [
+        12.198,
+        10.877
+      ],
+      "speed_ms": 0.4962,
+      "clearance_m": 1.55,
+      "sensor_confidence": 0.8237,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.50m/s based on clearance=1.55m."
+    },
+    {
+      "step": 381,
+      "state": "NAVIGATING",
+      "position": [
+        12.215,
+        10.924
+      ],
+      "speed_ms": 1.191,
+      "clearance_m": 3.15,
+      "sensor_confidence": 0.8238,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.19m/s based on clearance=3.15m."
+    },
+    {
+      "step": 382,
+      "state": "NAVIGATING",
+      "position": [
+        12.256,
+        11.036
+      ],
+      "speed_ms": 1.1794,
+      "clearance_m": 3.05,
+      "sensor_confidence": 0.8239,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.18m/s based on clearance=3.05m."
+    },
+    {
+      "step": 383,
+      "state": "NAVIGATING",
+      "position": [
+        12.282,
+        11.151
+      ],
+      "speed_ms": 1.1794,
+      "clearance_m": 2.85,
+      "sensor_confidence": 0.8239,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.18m/s based on clearance=2.85m."
+    },
+    {
+      "step": 384,
+      "state": "NAVIGATING",
+      "position": [
+        12.307,
+        11.266
+      ],
+      "speed_ms": 1.1544,
+      "clearance_m": 2.7,
+      "sensor_confidence": 0.8238,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.15m/s based on clearance=2.70m."
+    },
+    {
+      "step": 385,
+      "state": "NAVIGATING",
+      "position": [
+        12.325,
+        11.38
+      ],
+      "speed_ms": 1.1544,
+      "clearance_m": 2.6,
+      "sensor_confidence": 0.8238,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.15m/s based on clearance=2.60m."
+    },
+    {
+      "step": 386,
+      "state": "NAVIGATING",
+      "position": [
+        12.344,
+        11.494
+      ],
+      "speed_ms": 1.1028,
+      "clearance_m": 2.5,
+      "sensor_confidence": 0.8237,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 1.10m/s based on clearance=2.50m."
+    },
+    {
+      "step": 387,
+      "state": "NAVIGATING",
+      "position": [
+        12.36,
+        11.603
+      ],
+      "speed_ms": 0.9741,
+      "clearance_m": 2.4,
+      "sensor_confidence": 0.8236,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.97m/s based on clearance=2.40m."
+    },
+    {
+      "step": 388,
+      "state": "NAVIGATING",
+      "position": [
+        12.375,
+        11.699
+      ],
+      "speed_ms": 0.8455,
+      "clearance_m": 2.3,
+      "sensor_confidence": 0.8235,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.85m/s based on clearance=2.30m."
+    },
+    {
+      "step": 389,
+      "state": "NAVIGATING",
+      "position": [
+        12.387,
+        11.783
+      ],
+      "speed_ms": 0.6623,
+      "clearance_m": 2.2,
+      "sensor_confidence": 0.8235,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.66m/s based on clearance=2.20m."
+    },
+    {
+      "step": 390,
+      "state": "NAVIGATING",
+      "position": [
+        12.401,
+        11.848
+      ],
+      "speed_ms": 0.6029,
+      "clearance_m": 2.15,
+      "sensor_confidence": 0.8234,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.60m/s based on clearance=2.15m."
+    },
+    {
+      "step": 391,
+      "state": "NAVIGATING",
+      "position": [
+        12.414,
+        11.907
+      ],
+      "speed_ms": 0.5434,
+      "clearance_m": 2.1,
+      "sensor_confidence": 0.8234,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.54m/s based on clearance=2.10m."
+    },
+    {
+      "step": 392,
+      "state": "NAVIGATING",
+      "position": [
+        12.426,
+        11.96
+      ],
+      "speed_ms": 0.484,
+      "clearance_m": 2.05,
+      "sensor_confidence": 0.8234,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.48m/s based on clearance=2.05m."
+    },
+    {
+      "step": 393,
+      "state": "NAVIGATING",
+      "position": [
+        12.436,
+        12.007
+      ],
+      "speed_ms": 0.4733,
+      "clearance_m": 2.0,
+      "sensor_confidence": 0.8234,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.47m/s based on clearance=2.00m."
+    },
+    {
+      "step": 394,
+      "state": "NAVIGATING",
+      "position": [
+        12.453,
+        12.051
+      ],
+      "speed_ms": 0.6058,
+      "clearance_m": 2.1,
+      "sensor_confidence": 0.8232,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.61m/s based on clearance=2.10m."
+    },
+    {
+      "step": 395,
+      "state": "NAVIGATING",
+      "position": [
+        12.476,
+        12.107
+      ],
+      "speed_ms": 0.6058,
+      "clearance_m": 2.1,
+      "sensor_confidence": 0.823,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.61m/s based on clearance=2.10m."
+    },
+    {
+      "step": 396,
+      "state": "NAVIGATING",
+      "position": [
+        12.499,
+        12.163
+      ],
+      "speed_ms": 0.5396,
+      "clearance_m": 2.05,
+      "sensor_confidence": 0.8229,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.54m/s based on clearance=2.05m."
+    },
+    {
+      "step": 397,
+      "state": "NAVIGATING",
+      "position": [
+        12.52,
+        12.213
+      ],
+      "speed_ms": 0.5396,
+      "clearance_m": 2.05,
+      "sensor_confidence": 0.8228,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.54m/s based on clearance=2.05m."
+    },
+    {
+      "step": 398,
+      "state": "NAVIGATING",
+      "position": [
+        12.54,
+        12.263
+      ],
+      "speed_ms": 0.4893,
+      "clearance_m": 2.0,
+      "sensor_confidence": 0.8227,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.49m/s based on clearance=2.00m."
+    },
+    {
+      "step": 399,
+      "state": "NAVIGATING",
+      "position": [
+        12.565,
+        12.305
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8225,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 400,
+      "state": "REPLANNING",
+      "position": [
+        12.575,
+        12.322
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8223,
+      "emergency": false,
+      "reasoning": "Path replanned. NA* found new corridor. Speed=0.20m/s"
+    },
+    {
+      "step": 401,
+      "state": "NAVIGATING",
+      "position": [
+        12.583,
+        12.341
+      ],
+      "speed_ms": 0.4436,
+      "clearance_m": 1.95,
+      "sensor_confidence": 0.8222,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.44m/s based on clearance=1.95m."
+    },
+    {
+      "step": 402,
+      "state": "NAVIGATING",
+      "position": [
+        12.595,
+        12.383
+      ],
+      "speed_ms": 0.4436,
+      "clearance_m": 1.75,
+      "sensor_confidence": 0.8219,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.44m/s based on clearance=1.75m."
+    },
+    {
+      "step": 403,
+      "state": "NAVIGATING",
+      "position": [
+        12.608,
+        12.426
+      ],
+      "speed_ms": 0.4436,
+      "clearance_m": 1.7,
+      "sensor_confidence": 0.8217,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.44m/s based on clearance=1.70m."
+    },
+    {
+      "step": 404,
+      "state": "NAVIGATING",
+      "position": [
+        12.62,
+        12.469
+      ],
+      "speed_ms": 0.4436,
+      "clearance_m": 1.7,
+      "sensor_confidence": 0.8215,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.44m/s based on clearance=1.70m."
+    },
+    {
+      "step": 405,
+      "state": "NAVIGATING",
+      "position": [
+        12.633,
+        12.511
+      ],
+      "speed_ms": 0.4773,
+      "clearance_m": 1.65,
+      "sensor_confidence": 0.8213,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.48m/s based on clearance=1.65m."
+    },
+    {
+      "step": 406,
+      "state": "NAVIGATING",
+      "position": [
+        12.653,
+        12.555
+      ],
+      "speed_ms": 0.4773,
+      "clearance_m": 1.95,
+      "sensor_confidence": 0.8211,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.48m/s based on clearance=1.95m."
+    },
+    {
+      "step": 407,
+      "state": "NAVIGATING",
+      "position": [
+        12.673,
+        12.597
+      ],
+      "speed_ms": 0.6109,
+      "clearance_m": 2.1,
+      "sensor_confidence": 0.8209,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.61m/s based on clearance=2.10m."
+    },
+    {
+      "step": 408,
+      "state": "NAVIGATING",
+      "position": [
+        12.7,
+        12.652
+      ],
+      "speed_ms": 0.6777,
+      "clearance_m": 2.15,
+      "sensor_confidence": 0.8207,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.68m/s based on clearance=2.15m."
+    },
+    {
+      "step": 409,
+      "state": "NAVIGATING",
+      "position": [
+        12.73,
+        12.713
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8205,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 410,
+      "state": "NAVIGATING",
+      "position": [
+        12.738,
+        12.731
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8202,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 411,
+      "state": "NAVIGATING",
+      "position": [
+        12.747,
+        12.749
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8199,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 412,
+      "state": "NAVIGATING",
+      "position": [
+        12.756,
+        12.767
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8197,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 413,
+      "state": "NAVIGATING",
+      "position": [
+        12.767,
+        12.784
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8195,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 414,
+      "state": "NAVIGATING",
+      "position": [
+        12.778,
+        12.801
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8193,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 415,
+      "state": "NAVIGATING",
+      "position": [
+        12.789,
+        12.817
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8191,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 416,
+      "state": "NAVIGATING",
+      "position": [
+        12.8,
+        12.834
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.819,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 417,
+      "state": "NAVIGATING",
+      "position": [
+        12.811,
+        12.851
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8188,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 418,
+      "state": "NAVIGATING",
+      "position": [
+        12.822,
+        12.867
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8186,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 419,
+      "state": "NAVIGATING",
+      "position": [
+        12.833,
+        12.884
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8184,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 420,
+      "state": "NAVIGATING",
+      "position": [
+        12.844,
+        12.901
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8182,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 421,
+      "state": "NAVIGATING",
+      "position": [
+        12.855,
+        12.917
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8181,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 422,
+      "state": "NAVIGATING",
+      "position": [
+        12.866,
+        12.934
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.818,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 423,
+      "state": "NAVIGATING",
+      "position": [
+        12.877,
+        12.951
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8179,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 424,
+      "state": "NAVIGATING",
+      "position": [
+        12.888,
+        12.967
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8179,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 425,
+      "state": "REPLANNING",
+      "position": [
+        12.899,
+        12.984
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8178,
+      "emergency": false,
+      "reasoning": "Path replanned. NA* found new corridor. Speed=0.20m/s"
+    },
+    {
+      "step": 426,
+      "state": "NAVIGATING",
+      "position": [
+        12.91,
+        13.001
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8178,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 427,
+      "state": "NAVIGATING",
+      "position": [
+        12.92,
+        13.019
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8177,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 428,
+      "state": "NAVIGATING",
+      "position": [
+        12.93,
+        13.036
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8176,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 429,
+      "state": "NAVIGATING",
+      "position": [
+        12.943,
+        13.051
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8175,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 430,
+      "state": "NAVIGATING",
+      "position": [
+        12.955,
+        13.067
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8173,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 431,
+      "state": "NAVIGATING",
+      "position": [
+        12.968,
+        13.083
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8172,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 432,
+      "state": "NAVIGATING",
+      "position": [
+        12.98,
+        13.098
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.817,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 433,
+      "state": "NAVIGATING",
+      "position": [
+        12.993,
+        13.114
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8169,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 434,
+      "state": "NAVIGATING",
+      "position": [
+        13.005,
+        13.129
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8167,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 435,
+      "state": "NAVIGATING",
+      "position": [
+        13.018,
+        13.145
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8166,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 436,
+      "state": "NAVIGATING",
+      "position": [
+        13.03,
+        13.161
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8164,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 437,
+      "state": "NAVIGATING",
+      "position": [
+        13.043,
+        13.176
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8163,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 438,
+      "state": "NAVIGATING",
+      "position": [
+        13.055,
+        13.192
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8162,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 439,
+      "state": "NAVIGATING",
+      "position": [
+        13.068,
+        13.207
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.816,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 440,
+      "state": "NAVIGATING",
+      "position": [
+        13.08,
+        13.223
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8159,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 441,
+      "state": "NAVIGATING",
+      "position": [
+        13.093,
+        13.239
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8157,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 442,
+      "state": "NAVIGATING",
+      "position": [
+        13.105,
+        13.254
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8156,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 443,
+      "state": "NAVIGATING",
+      "position": [
+        13.118,
+        13.27
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8154,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 444,
+      "state": "NAVIGATING",
+      "position": [
+        13.13,
+        13.286
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8153,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 445,
+      "state": "NAVIGATING",
+      "position": [
+        13.144,
+        13.3
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8153,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 446,
+      "state": "NAVIGATING",
+      "position": [
+        13.158,
+        13.314
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8152,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 447,
+      "state": "NAVIGATING",
+      "position": [
+        13.172,
+        13.329
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8152,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 448,
+      "state": "NAVIGATING",
+      "position": [
+        13.186,
+        13.343
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8151,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 449,
+      "state": "NAVIGATING",
+      "position": [
+        13.2,
+        13.357
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8151,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 450,
+      "state": "REPLANNING",
+      "position": [
+        13.214,
+        13.372
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8151,
+      "emergency": false,
+      "reasoning": "Path replanned. NA* found new corridor. Speed=0.20m/s"
+    },
+    {
+      "step": 451,
+      "state": "NAVIGATING",
+      "position": [
+        13.227,
+        13.386
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8151,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 452,
+      "state": "NAVIGATING",
+      "position": [
+        13.241,
+        13.401
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.815,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 453,
+      "state": "NAVIGATING",
+      "position": [
+        13.254,
+        13.416
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8149,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 454,
+      "state": "NAVIGATING",
+      "position": [
+        13.268,
+        13.43
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8148,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 455,
+      "state": "NAVIGATING",
+      "position": [
+        13.282,
+        13.445
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8147,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 456,
+      "state": "NAVIGATING",
+      "position": [
+        13.295,
+        13.46
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8144,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 457,
+      "state": "NAVIGATING",
+      "position": [
+        13.309,
+        13.474
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8142,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 458,
+      "state": "NAVIGATING",
+      "position": [
+        13.323,
+        13.489
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.814,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 459,
+      "state": "NAVIGATING",
+      "position": [
+        13.336,
+        13.503
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8138,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 460,
+      "state": "NAVIGATING",
+      "position": [
+        13.35,
+        13.518
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8136,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 461,
+      "state": "NAVIGATING",
+      "position": [
+        13.364,
+        13.533
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8134,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 462,
+      "state": "NAVIGATING",
+      "position": [
+        13.379,
+        13.546
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8133,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 463,
+      "state": "NAVIGATING",
+      "position": [
+        13.394,
+        13.558
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8131,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 464,
+      "state": "NAVIGATING",
+      "position": [
+        13.41,
+        13.571
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.813,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 465,
+      "state": "NAVIGATING",
+      "position": [
+        13.425,
+        13.584
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8129,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 466,
+      "state": "NAVIGATING",
+      "position": [
+        13.44,
+        13.597
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8128,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 467,
+      "state": "NAVIGATING",
+      "position": [
+        13.456,
+        13.61
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8126,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 468,
+      "state": "NAVIGATING",
+      "position": [
+        13.471,
+        13.622
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8124,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 469,
+      "state": "NAVIGATING",
+      "position": [
+        13.486,
+        13.635
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8123,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 470,
+      "state": "NAVIGATING",
+      "position": [
+        13.502,
+        13.648
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8122,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 471,
+      "state": "NAVIGATING",
+      "position": [
+        13.517,
+        13.661
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8121,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 472,
+      "state": "NAVIGATING",
+      "position": [
+        13.532,
+        13.674
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.812,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 473,
+      "state": "NAVIGATING",
+      "position": [
+        13.548,
+        13.687
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.812,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 474,
+      "state": "NAVIGATING",
+      "position": [
+        13.563,
+        13.699
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.812,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 475,
+      "state": "REPLANNING",
+      "position": [
+        13.578,
+        13.712
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.812,
+      "emergency": false,
+      "reasoning": "Path replanned. NA* found new corridor. Speed=0.20m/s"
+    },
+    {
+      "step": 476,
+      "state": "NAVIGATING",
+      "position": [
+        13.594,
+        13.724
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.812,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 477,
+      "state": "NAVIGATING",
+      "position": [
+        13.61,
+        13.736
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.812,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 478,
+      "state": "NAVIGATING",
+      "position": [
+        13.626,
+        13.748
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.812,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 479,
+      "state": "NAVIGATING",
+      "position": [
+        13.642,
+        13.76
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.812,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 480,
+      "state": "NAVIGATING",
+      "position": [
+        13.658,
+        13.773
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8119,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 481,
+      "state": "NAVIGATING",
+      "position": [
+        13.674,
+        13.785
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8118,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 482,
+      "state": "NAVIGATING",
+      "position": [
+        13.69,
+        13.797
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8117,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 483,
+      "state": "NAVIGATING",
+      "position": [
+        13.706,
+        13.809
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8116,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 484,
+      "state": "NAVIGATING",
+      "position": [
+        13.722,
+        13.821
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8115,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 485,
+      "state": "NAVIGATING",
+      "position": [
+        13.738,
+        13.833
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8114,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 486,
+      "state": "NAVIGATING",
+      "position": [
+        13.754,
+        13.845
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8114,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 487,
+      "state": "NAVIGATING",
+      "position": [
+        13.77,
+        13.857
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8113,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 488,
+      "state": "NAVIGATING",
+      "position": [
+        13.786,
+        13.869
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8112,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 489,
+      "state": "NAVIGATING",
+      "position": [
+        13.802,
+        13.881
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8111,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 490,
+      "state": "NAVIGATING",
+      "position": [
+        13.818,
+        13.893
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.811,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 491,
+      "state": "NAVIGATING",
+      "position": [
+        13.833,
+        13.906
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.811,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 492,
+      "state": "NAVIGATING",
+      "position": [
+        13.848,
+        13.919
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8109,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 493,
+      "state": "NAVIGATING",
+      "position": [
+        13.863,
+        13.932
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8108,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 494,
+      "state": "NAVIGATING",
+      "position": [
+        13.878,
+        13.945
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8107,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 495,
+      "state": "NAVIGATING",
+      "position": [
+        13.893,
+        13.958
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8106,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 496,
+      "state": "NAVIGATING",
+      "position": [
+        13.909,
+        13.972
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8106,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 497,
+      "state": "NAVIGATING",
+      "position": [
+        13.924,
+        13.985
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8105,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 498,
+      "state": "NAVIGATING",
+      "position": [
+        13.939,
+        13.998
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8104,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 499,
+      "state": "NAVIGATING",
+      "position": [
+        13.954,
+        14.011
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8104,
+      "emergency": false,
+      "reasoning": "Path clear. Fuzzy speed governor set 0.20m/s based on clearance=5.00m."
+    },
+    {
+      "step": 500,
+      "state": "REPLANNING",
+      "position": [
+        13.969,
+        14.024
+      ],
+      "speed_ms": 0.2,
+      "clearance_m": 5.0,
+      "sensor_confidence": 0.8103,
+      "emergency": false,
+      "reasoning": "Path replanned. NA* found new corridor. Speed=0.20m/s"
+    }
+  ],
+  "phase_distribution": {
+    "REPLANNING": 28,
+    "NAVIGATING": 472
+  }
+}
