@@ -142,7 +142,7 @@ Dayananda Sagar University | RoboEdge CELESTAI'26
 }
 ```
 
-Every one of the **500 decisions** in `simulations/xai_decision_log.json` includes: position, speed, clearance, confidence, and the **reason why** the AI made that decision.
+Every one of the **500 decisions** in `xai_decision_log.json` includes: position, speed, clearance, confidence, and the **reason why** the AI made that decision.
 
 ---
 
