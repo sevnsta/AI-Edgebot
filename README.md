@@ -9,9 +9,6 @@
 
 **Latency Zero (ADVIT EdgeBot)** is a full-stack Edge AI autonomous navigation system built for the **RoboEdge CELESTAI'26** Robotics Challenge. It demonstrates a 10-layer cognitive AI stack running entirely **on-device** — zero cloud, zero GPU required.
 
-> Evaluation: **60% robotic task** + **40% Edge AI intelligence layer**  
-> This system is purpose-built to dominate the 40% Edge AI marks.
-
 ---
 
 ## 🧠 10 AI Innovations
