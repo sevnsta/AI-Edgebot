@@ -1,4 +1,4 @@
-# 🤖 ADVIT EdgeBot — Advanced Edge AI Navigation System
+# 🤖 Latency Zero (ADVIT EdgeBot) — Advanced Edge AI Navigation System
 ### RoboEdge | CELESTAI'26 | Dayananda Sagar University
 
 ![Final State](final_state.png)
@@ -7,14 +7,14 @@
 
 ## 🏆 Overview
 
-**ADVIT EdgeBot** is a full-stack Edge AI autonomous navigation system built for the **RoboEdge CELESTAI'26** Robotics Challenge. It demonstrates a 10-layer cognitive AI stack running entirely **on-device** — zero cloud, zero GPU required.
+**Latency Zero (ADVIT EdgeBot)** is a full-stack Edge AI autonomous navigation system built for the **RoboEdge CELESTAI'26** Robotics Challenge. It demonstrates a 10-layer cognitive AI stack running entirely **on-device** — zero cloud, zero GPU required.
 
 > Evaluation: **60% robotic task** + **40% Edge AI intelligence layer**  
 > This system is purpose-built to dominate the 40% Edge AI marks.
 
 ---
 
-## 🧠 10 AI Innovations (What No Other Team Has Combined)
+## 🧠 10 AI Innovations
 
 | # | Innovation | What It Does |
 |---|---|---|
@@ -43,42 +43,9 @@
 | Minimum Clearance Maintained | **1.45 m** |
 | Distance Traveled | **18.43 m** |
 
----
 
-## 📁 Repository Structure
 
-```
-advit-edgebot/
-├── simulation.py              ← Complete AI system (single file, fully runnable)
-├── requirements.txt           ← Just numpy + matplotlib
-├── README.md                  ← This file
-├── docs/
-│   └── robot_specifications.md ← Hardware build document (submission upload)
-└── simulations/               ← ALL generated outputs (pre-run, ready to view)
-    ├── final_state.png        ← Final arena visualization
-    ├── performance_dashboard.png ← 4-panel analytics dashboard
-    ├── metrics.json           ← Machine-readable performance metrics
-    ├── xai_decision_log.json  ← 500 decisions with natural language reasoning
-    └── frames/                ← 63 animation frames (frame_0000.png → frame_0062.png)
-```
-
----
-
-## 🚀 How to Run
-
-```bash
-# Clone
-git clone https://github.com/YOUR_USERNAME/advit-edgebot
-cd advit-edgebot
-
-# Install (only 2 packages)
-pip install numpy matplotlib
-
-# Run full simulation (generates all outputs automatically)
-python simulation.py
-```
-
-**Outputs generated automatically:**
+**Output Working Specifications:**
 - `simulations/final_state.png` — arena map with robot path
 - `simulations/performance_dashboard.png` — 4-panel analytics
 - `simulations/metrics.json` — performance summary
@@ -110,7 +77,7 @@ python simulation.py
 
 ---
 
-## 📸 Screenshots
+## Screenshots of working
 
 ### Final State — Arena Navigation
 ![Final State](final_state.png)
@@ -122,7 +89,13 @@ python simulation.py
 
 ## 👥 Team
 
-**Latency zero* — Dayananda Sagar College of Engineering (DSCE), Bangalore  
+**Latency zero* — Dayananda Sagar College of Engineering (DSCE),Bangalore 
+Team member -
+1. Jeevan N
+2. Sheen S
+3. Kushal CK
+4. Selva Ganapathi S.A
+   
 Dayananda Sagar University | RoboEdge CELESTAI'26
 
 ---
@@ -143,7 +116,3 @@ Dayananda Sagar University | RoboEdge CELESTAI'26
 ```
 
 Every one of the **500 decisions** in `xai_decision_log.json` includes: position, speed, clearance, confidence, and the **reason why** the AI made that decision.
-
----
-
-*Built for RoboEdge CELESTAI'26 — Edge AI Intelligence Layer*
