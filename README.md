@@ -113,16 +113,16 @@ python simulation.py
 ## 📸 Screenshots
 
 ### Final State — Arena Navigation
-![Final State](simulations/final_state.png)
+![Final State](final_state.png)
 
 ### Performance Dashboard
-![Dashboard](simulations/performance_dashboard.png)
+![Dashboard](performance_dashboard.png)
 
 ---
 
 ## 👥 Team
 
-**ADVIT EdgeBot Team** — Dayananda Sagar College of Engineering (DSCE), Bangalore  
+**Latency zero* — Dayananda Sagar College of Engineering (DSCE), Bangalore  
 Dayananda Sagar University | RoboEdge CELESTAI'26
 
 ---
